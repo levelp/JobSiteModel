@@ -12,6 +12,7 @@ public class ResumeTest {
     public void testResume1() {
         Resume resume = new Resume();
         resume.name = "Test";
+        //System.out.println();
 
     }
 
