@@ -2,5 +2,6 @@
  *
  */
 public class Resume {
-    public String name;
+    private String name;
+
 }
