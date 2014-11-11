@@ -13,12 +13,11 @@ public class ResumeTest {
         Resume resume = new Resume();
         resume.name = "Test";
 
-        // master
-
         // Эксперимент в Тест
         // Второй эксперимент
 
-        int a = 3;
+        int a = 4;
+        
     }
 
 }
