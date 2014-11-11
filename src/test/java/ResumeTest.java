@@ -15,6 +15,12 @@ public class ResumeTest {
 
         String test = "555";
 
+        // master
+
+        // Эксперимент в Тест
+        // Второй эксперимент
+
+        int a = 3;
     }
 
 }
