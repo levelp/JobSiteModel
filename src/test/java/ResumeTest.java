@@ -13,6 +13,8 @@ public class ResumeTest {
         Resume resume = new Resume();
         resume.name = "Test";
 
+        String test = "555";
+
     }
 
 }
