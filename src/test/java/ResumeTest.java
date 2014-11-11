@@ -15,5 +15,5 @@ public class ResumeTest {
 
     }
 
-    //waleria test 1
+    //waleria test 2
 }
