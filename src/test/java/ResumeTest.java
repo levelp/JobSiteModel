@@ -14,6 +14,7 @@ public class ResumeTest {
         resume.name = "Test";
 
         // Эксперимент в Тест
+        // Второй эксперимент
 
     }
 
