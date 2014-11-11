@@ -15,6 +15,9 @@ public class ResumeTest {
 
         // master
 
+        // Эксперимент в Тест
+        // Второй эксперимент
+
     }
 
 }
