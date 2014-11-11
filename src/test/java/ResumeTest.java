@@ -11,7 +11,7 @@ public class ResumeTest {
     @Test
     public void testResume1() {
         Resume resume = new Resume();
-        resume.name = "Test";
+ //       resume.name = "Test";
 
     }
 
